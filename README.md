@@ -7,4 +7,4 @@ The project scenario involved assuming the role of a Data Scientist tasked with 
 4. Performed exploratory data analysis on the prepared datasets to identify patterns and trends.
 5. Created interactive visualizations using Plotly to display the stock price and revenue data over time for each company. 
  
-`Skills`: Python, Pandas, Web Scraping, Data Visualization, Exploratory Data Analysis, Jupyter Notebooks
+`Skills`: Python, Pandas, Web Scraping, Data Visualization, Exploratory Data Analysis, Jupyter Notebooks, yfinance.
